@@ -4,7 +4,7 @@ module.exports = {
     // purgeLayersByDefault: true,
   },
   purge: [
-      './public/index.html'
+      './docs/index.html'
   ],
   theme: {
     //You can edit any part of the bootstrap replacer package here.
